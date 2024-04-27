@@ -1,0 +1,11 @@
+.contentfooter{
+    background-color: #2E0039;
+    color: #ffffff;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 10px 50px;
+    height: 4vh;
+    align-content: center;
+    justify-items: center;
+    font-weight: 400;
+}

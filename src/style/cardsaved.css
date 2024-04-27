@@ -1,0 +1,25 @@
+.contentcardsaved{
+    border: 1px solid rgb(227, 227, 227);
+    background-color: rgb(227, 227, 227);
+    border-radius: 10px;
+    box-shadow: 0 0 4px 1px rgb(227, 227, 227);
+    height: 4vh;
+    margin: 0 10px;
+    margin-bottom: 20px;
+    align-content: space-evenly;
+    color: rgb(103, 103, 103);
+    display: grid;
+    grid-template-columns: 95% 5%;
+    padding-left: 20px;
+}
+.btnclose{
+    background-image: url("../recourses/close.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 60%;
+    height: 4vh;
+}
+.tit_save{
+    align-content: center;
+}
